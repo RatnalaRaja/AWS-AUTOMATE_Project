@@ -1,4 +1,4 @@
-# AWS-AUTOMATE_Mini-Project
+# AWS-AUTOMATE_Project
 
 ![AWS Logo](AWS-logo-2.jpg)
 
